@@ -579,30 +579,6 @@ http://localhost:8000/
 ```
 
 ---
-
-# ☁️ Cloud Deployment
-
-The project contains:
-
-```text
-render.yaml
-Dockerfile
-```
-
-These files support cloud deployment.
-
-The application can be deployed to a cloud hosting platform and accessed using a public HTTPS URL.
-
-Example:
-
-```text
-https://skill-gap-predictor.onrender.com
-```
-
-The actual URL depends on the deployment configuration.
-
----
-
 # 🔐 Security Considerations
 
 For production deployment:
